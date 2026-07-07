@@ -1,0 +1,16 @@
+,sector,number_of_breaches,total_records_millions,avg_records_millions
+0,web,114,7059.2,61.92
+1,finance,44,1669.6,37.94
+2,tech,28,1593.7,56.92
+3,government,46,923.6,20.08
+4,retail,37,901.0,24.35
+5,telecoms,22,873.6,39.71
+6,app,21,553.3,26.35
+7,gaming,16,224.8,14.05
+8,transport,17,182.0,10.71
+9,health,43,174.7,4.06
+10,misc,11,91.3,8.3
+11,military,5,82.2,16.45
+12,academic,11,6.0,0.54
+13,legal,1,4.1,4.1
+14,ngo,1,0.5,0.5

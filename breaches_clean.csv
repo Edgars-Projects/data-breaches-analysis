@@ -1,0 +1,418 @@
+organisation,records_lost,year,sector,method,sensitivity
+Plex,15000000,2022,web,hacked,1.0
+Twitter,5400000,2021,web,hacked,2.0
+Shanghai Police,500000000,2022,finance,hacked,5.0
+"City of Amagasaki, Japan",500000,2022,government,oops!,3.0
+Dubai Real Estate Leak,800000,2022,finance,inside job,1.0
+Heroku,50000,2022,tech,hacked,2.0
+Mailchimp,106586,2022,tech,hacked,1.0
+PayHere,1580249,2022,finance,hacked,3.0
+CDEK,18218203,2022,retail,hacked,3.0
+Washington State Dpt of Licensing,257000,2022,government,hacked,3.0
+Red Cross,500000,2022,ngo,hacked,4.0
+Open Subtitles,100000,2022,web,hacked,1.0
+FlexBooker,3700000,2022,web,hacked,3.0
+LINE Pay,133000,2021,finance,poor security,2.0
+Robinhood,5000937,2021,finance,hacked,2.0
+GoDaddy,1200000,2021,web,hacked,1.0
+Travelio,471376,2021,misc,hacked,2.0
+Acer,3000000,2021,tech,hacked,1.0
+Brewdog,200000,2021,retail,poor security,1.0
+Nvidia,100000,2021,tech,hacked,2.0
+Okta,100000,2021,tech,hacked,1.0
+Experian SA,24000000,2020,web,oops!,3.0
+Royal Enfield,420873,2020,transport,poor security,3.0
+Avvo,4101101,2019,legal,hacked,1.0
+Aimware,305470,2019,gaming,hacked,3.0
+Twitch,10000000,2021,gaming,hacked,4.0
+Syniverse,500000000,2021,telecoms,hacked,4.0
+Pandora Papers,11900000,2021,government,hacked,4.0
+Neiman Marcus,4600000,2021,retail,hacked,3.0
+Epik,15000000,2021,retail,hacked,5.0
+Thailand visitors,100000000,2021,government,poor security,2.0
+T-Mobile ,76000000,2021,telecoms,hacked,3.0
+Contact tracing data,38000000,2021,telecoms,hacked,3.0
+Estonian gov,280000,2021,government,hacked,4.0
+Guntrader,111000,2021,retail,hacked,2.0
+Linkedin,700000000,2021,web,hacked,1.0
+VW,3300000,2021,transport,hacked,2.0
+MacDonalds,10000000,2021,retail,hacked,2.0
+Air India,4500000,2021,transport,hacked,2.0
+Omiai dating app,1710000,2021,app,hacked,2.0
+Amazon Reviews,13124962,2021,web,poor security,2.0
+Peloton,3000000,2021,tech,poor security,2.0
+Digital Ocean,10000000,2021,tech,poor security,
+Park Mobile,21000000,2021,transport,hacked,2.0
+Ubiquiti,16000000,2021,tech,hacked,2.0
+Meet Mindful,2240000,2021,tech,hacked,4.0
+Experian Brazil,220000000,2021,finance,hacked,2.0
+Gab,4000000,2021,tech,hacked,3.0
+Star Alliance,16000000,2021,transport,hacked,1.0
+Facebook,533000000,2021,tech,hacked,1.0
+Ledger,270000,2020,finance,hacked,2.0
+T-mobile,200000,2020,telecoms,hacked,1.0
+The Hospital Group,1000000,2020,health,hacked,4.0
+SolarWinds,50000000,2020,app,hacked,3.0
+Ho Mobile,2500000,2020,telecoms,hacked,2.0
+Spotify,500000,2020,app,oops!,1.0
+Drizly,2400000,2020,app,hacked,2.0
+GEDmatch,1400000,2020,misc,hacked,5.0
+Call of Duty / Activision,500000,2020,gaming,hacked,1.0
+Zhenhua,2400000,2020,misc,oops!,1.0
+Cense AI,2500000,2020,tech,poor security,4.0
+Nintendo,300000,2020,gaming,hacked,3.0
+Pakistani mobile operators,115000000,2020,telecoms,hacked,2.0
+US Marshals Service,387000,2020,government,hacked,2.0
+db8151dd,22000000,2020,web,hacked,2.0
+EasyJet,9000000,2020,transport,hacked,3.0
+Microsoft,250000000,2020,web,poor security,1.0
+Dutch Government,6900000,2020,government,lost device,4.0
+Virgin Media,900000,2020,retail,poor security,1.0
+Boots Advantage Card,150000,2020,retail,hacked,1.0
+Tesco Clubcard,600000,2020,retail,hacked,1.0
+Marriott Hotels,5200000,2020,retail,inside job,2.0
+Zoom,500000,2020,app,hacked,1.0
+Israeli government,6500000,2020,government,poor security,2.0
+MGM Hotels,10600000,2020,retail,hacked,2.0
+Buchbinder Car Rentals,5000000,2020,transport,poor security,2.0
+Wawa,30000000,2019,retail,hacked,3.0
+Desjardins Group,4200000,2019,finance,inside job,2.0
+US Customs and Border Protection,100000,2019,government,hacked,2.0
+Quest Diagnostics,20000000,2019,health,poor security,4.0
+Australian National University,200000,2019,academic,hacked,4.0
+Canva,139000000,2019,web,hacked,2.0
+Chtrbox,49000000,2019,misc,poor security,1.0
+WiFi Finder,2000000,2019,app,poor security,1.0
+Toyota,3100000,2019,transport,hacked,2.0
+Unknown,1800000,2019,web,poor security,4.0
+Vårdguiden,2700000,2019,health,poor security,5.0
+Dubsmash,162000000,2019,web,hacked,1.0
+ShareThis,41000000,2019,web,hacked,1.0
+HauteLook,28000000,2019,retail,hacked,1.0
+Animoto,25000000,2019,web,hacked,1.0
+EyeEm,22000000,2019,web,hacked,1.0
+8fit,20000000,2019,web,hacked,1.0
+Whitepages,18000000,2019,web,hacked,1.0
+Fotolog,16000000,2019,web,hacked,1.0
+Armor Games,11000000,2019,gaming,hacked,1.0
+BookMate,8000000,2019,web,hacked,1.0
+CoffeeMeetsBagel,6000000,2019,web,hacked,1.0
+Artsy,1000000,2019,web,hacked,1.0
+DataCamp,700000,2019,web,hacked,1.0
+Ixigo,18000000,2019,transport,poor security,1.0
+YouNow,40000000,2019,web,hacked,1.0
+Houzz,57000000,2019,retail,hacked,2.0
+Ge.tt,1800000,2019,web,hacked,1.0
+Coinmama,450000,2019,finance,hacked,1.0
+Roll20,4000000,2019,gaming,hacked,1.0
+Stronghold Kingdoms,5000000,2019,gaming,hacked,1.0
+Petflow,1000000,2019,retail,poor security,1.0
+500px,14800000,2019,web,hacked,2.0
+Blur,2400000,2019,tech,oops!,1.0
+Blank Media Games,7600000,2019,gaming,hacked,1.0
+Indian citizens,275265298,2019,web,poor security,2.0
+Bulgarian National Revenue Agency,5000000,2019,government,hacked,2.0
+Capital One,100000000,2019,finance,hacked,3.0
+Suprema,27800000,2019,tech,poor security,5.0
+Facebook,419000000,2019,web,poor security,2.0
+DoorDash,4900000,2019,transport,hacked,2.0
+BriansClub,26000000,2019,web,hacked,3.0
+OxyData,380000000,2019,tech,poor security,2.0
+Click2Gov,300000,2018,finance,hacked,3.0
+SingHealth,1500000,2018,health,hacked,4.0
+GovPayNow.com,14000000,2018,finance,poor security,2.0
+Cathay Pacific Airways,94000000,2018,transport,hacked,3.0
+Chinese resume leak,202000000,2018,web,poor security,2.0
+Google+,52500000,2018,web,poor security,2.0
+Quora,100000000,2018,web,hacked,1.0
+Marriott International,383000000,2018,retail,hacked,3.0
+NMBS,700000,2018,transport,oops!,2.0
+Facebook,50000000,2018,web,hacked,1.0
+Panerabread,37000000,2018,retail,poor security,2.0
+Dixons Carphone,10000000,2018,telecoms,hacked,1.0
+MyHeritage,92283889,2018,web,hacked,1.0
+Saks and Lord & Taylor,5000000,2018,retail,hacked,3.0
+Careem,14000000,2018,app,hacked,2.0
+Texas voter records,14800000,2018,web,poor security,2.0
+British Airways,380000,2018,transport,hacked,4.0
+T-Mobile,2000000,2018,telecoms,hacked,1.0
+MyFitnessPal,150000000,2018,app,hacked,1.0
+Helse Sør-Øst RHF,3000000,2018,health,hacked,4.0
+Nametests,120000000,2018,app,poor security,1.0
+Ticketmaster,40000,2018,web,hacked,3.0
+Firebase,100000000,2018,app,poor security,5.0
+Aadhaar,550000000,2018,government,poor security,4.0
+Grindr,3000000,2018,app,poor security,3.0
+Orbitz,880000,2018,web,hacked,3.0
+MBM Company,1300000,2018,retail,poor security,4.0
+LocalBlox,48000000,2018,web,poor security,2.0
+Twitter,330000000,2018,tech,poor security,1.0
+ViewFines,934000,2018,transport,oops!,4.0
+TicketFly,27000000,2018,web,hacked,2.0
+Amazon,5000000,2018,retail,oops!,1.0
+Urban Massage,309000,2018,app,poor security,2.0
+Dell ,100000,2018,tech,hacked,1.0
+High Tail Hall,411000,2018,web,hacked,2.0
+SKY Brasil,32000000,2018,telecoms,poor security,1.0
+Vision Direct,16300,2018,retail,hacked,4.0
+Medicare & Medicaid,93689,2018,health,hacked,2.0
+Facebook,29000000,2018,web,hacked,2.0
+Newegg,45000000,2018,retail,hacked,3.0
+Mount Olympus,1100,2016,finance,inside job,5.0
+Apollo,200000000,2018,tech,poor security,1.0
+Disqus,17500000,2017,web,hacked,4.0
+RootsWeb,300000,2017,web,poor security,4.0
+Yahoo,32000000,2017,web,hacked,4.0
+Uber,57000000,2017,app,hacked,1.0
+Wonga,270000,2017,finance,hacked,4.0
+Snapchat,1700000,2017,app,hacked,1.0
+Spambot,520000000,2017,web,poor security,4.0
+CEX,2000000,2017,retail,oops!,3.0
+Al.type,31000000,2017,app,poor security,4.0
+Cellebrite,3000000,2017,tech,hacked,2.0
+Waterly,1000000,2017,app,poor security,3.0
+Swedish Transport Agency,3000000,2017,government,poor security,5.0
+Hong Kong Registration & Electoral Office,3700000,2017,government,lost device,2.0
+River City Media,340000000,2017,web,oops!,2.0
+DaFont,700000,2017,web,hacked,4.0
+Bell,1900000,2017,telecoms,hacked,1.0
+Zomato,17000000,2017,web,hacked,4.0
+Imgur,1700000,2017,app,hacked,4.0
+TIO Networks,1600000,2017,finance,hacked,4.0
+Malaysian telcos & MVNOs,46200000,2017,telecoms,hacked,4.0
+Malaysian medical practitioners,81309,2017,health,hacked,4.0
+Instagram,6000000,2017,web,hacked,1.0
+Viacom,3000000,2017,web,hacked,4.0
+Equifax,143000000,2017,finance,hacked,4.0
+SVR Tracking,540000,2017,app,poor security,4.0
+LinkedIn,117000000,2016,web,hacked,1.0
+Tumblr,65000000,2016,web,hacked,1.0
+Yahoo,500000000,2016,web,hacked,2.0
+Mossack Fonseca,11500000,2016,misc,hacked,5.0
+Philippines’ Commission on Elections,55000000,2016,government,hacked,5.0
+Syrian government,274477,2016,government,hacked,1.0
+Minecraft,7000000,2016,gaming,hacked,1.0
+Turkish citizenship database,49611709,2016,government,hacked,2.0
+Banner Health,3700000,2016,health,hacked,3.0
+Mail. ru,25000000,2016,web,hacked,2.0
+PayAsUGym,300000,2016,web,hacked,1.0
+Lynda.com,9500000,2016,web,hacked,1.0
+Linux Ubuntu forums,2000000,2016,web,hacked,1.0
+Wendy's,1025,2016,retail,hacked,3.0
+Clinton campaign,5000000,2016,government,hacked,2.0
+uTorrent ,35000,2016,web,hacked,1.0
+World Check,2200000,2016,misc,poor security,3.0
+Mutuelle Generale de la Police,112000,2016,health,inside job,5.0
+VK,171000000,2016,web,hacked,4.0
+KM.ru & Nival,1500000,2016,web,hacked,4.0
+Fling,40000000,2016,web,hacked,4.0
+MySpace,164000000,2016,web,hacked,1.0
+Three,130000,2016,telecoms,hacked,2.0
+Red Cross Blood Service,550000,2016,health,oops!,4.0
+Telegram ,15000000,2016,app,hacked,1.0
+Dailymotion,85200000,2016,web,hacked,1.0
+Weebly,43000000,2016,web,hacked,4.0
+Interpark,10000000,2016,web,hacked,2.0
+Quest Diagnostics,34000,2016,health,hacked,4.0
+Friend Finder Network,412000000,2016,web,hacked,1.0
+Brazzers,790724,2016,web,hacked,4.0
+ClixSense,6600000,2016,web,hacked,5.0
+Carefirst,1100000,2015,health,hacked,1.0
+Twitch,10000000,2015,health,hacked,1.0
+Premera,11000000,2015,health,hacked,5.0
+Uber,50000,2015,tech,poor security,1.0
+Deep Root Analytics,198000000,2015,web,poor security,2.0
+Kromtech,13000000,2015,web,hacked,1.0
+Invest Bank,40000,2015,finance,hacked,4.0
+Sanrio,3300000,2015,web,poor security,2.0
+VTech,6400000,2015,web,hacked,5.0
+Hacking Team,500000,2015,web,hacked,5.0
+AshleyMadison.com,37000000,2015,web,hacked,1.0
+US Office of Personnel Management (2nd Breach),21500000,2015,government,hacked,5.0
+US Office of Personnel Management,4000000,2015,government,hacked,2.0
+Australian Immigration Department,30,2015,government,oops!,4.0
+IRS,100000,2015,government,hacked,1.0
+MSpy,400000,2015,app,hacked,2.0
+Adult Friend Finder,3900000,2015,web,hacked,1.0
+Securus Technologies,70000000,2015,web,hacked,5.0
+TalkTalk,157000,2015,telecoms,hacked,2.0
+Experian / T-mobile,15000000,2015,telecoms,hacked,3.0
+Slack,500000,2015,app,hacked,1.0
+CarPhone Warehouse,2400000,2015,telecoms,hacked,3.0
+British Airways,10000,2015,transport,hacked,1.0
+Anthem ,80000000,2015,health,hacked,2.0
+UCLA Health,4500000,2015,health,hacked,4.0
+Neiman Marcus,1100000,2014,retail,hacked,2.0
+AOL,2400000,2014,web,hacked,1.0
+Community Health Systems,4500000,2014,health,hacked,2.0
+Privatization Agency of the Republic of Serbia,5190396,2014,government,oops!,2.0
+Sony Pictures,10000000,2014,misc,hacked,2.0
+Indiana University,146000,2014,academic,poor security,2.0
+Ebay,145000000,2014,web,hacked,1.0
+UPS,4000000,2014,retail,hacked,3.0
+European Central Bank,4000000,2014,finance,hacked,1.0
+JP Morgan Chase,76000000,2014,finance,hacked,3.0
+New York Taxis,52000,2014,transport,poor security,1.0
+HSBC Turkey,2700000,2014,finance,hacked,4.0
+Japan Airlines,750000,2014,transport,hacked,2.0
+Staples,1160000,2014,retail,hacked,3.0
+GMail,5000000,2014,web,hacked,1.0
+Home Depot,56000000,2014,retail,hacked,3.0
+Korea Credit Bureau,20000000,2014,finance,inside job,5.0
+Dominios Pizzas (France),600000,2014,retail,hacked,1.0
+Mozilla,76000,2014,web,poor security,2.0
+Massive American business hack,160000000,2013,finance,hacked,5.0
+"Affinity Health Plan, Inc.",344579,2013,health,lost device,4.0
+Citigroup,150000,2013,finance,oops!,2.0
+Tianya,40000000,2013,web,hacked,1.0
+Scribd,500000,2013,web,hacked,1.0
+Living Social,50000000,2013,web,hacked,1.0
+Yahoo,550000000,2013,web,hacked,2.0
+SnapChat,4600000,2013,web,hacked,2.0
+University of Delaware,74000,2013,academic,hacked,2.0
+Central Hudson Gas & Electric,110000,2013,misc,hacked,3.0
+Twitter,250000,2013,web,hacked,1.0
+"Crescent Health Inc., Walgreens",100000,2013,health,lost device,4.0
+Florida Department of Juvenile Justice,100000,2013,government,lost device,2.0
+Advocate Medical Group,4000000,2013,health,lost device,2.0
+OVH,200000,2013,web,hacked,2.0
+Apple,275000,2013,tech,hacked,1.0
+NASDAQ,500000,2013,finance,hacked,1.0
+UbiSoft,58000000,2013,gaming,hacked,2.0
+Ubuntu,2000000,2013,tech,hacked,3.0
+Nintendo,4000000,2013,gaming,hacked,2.0
+National Security Agency,1500000,2013,government,inside job,5.0
+Facebook,6000000,2013,web,oops!,1.0
+Evernote,50000000,2013,web,hacked,1.0
+Kirkwood Community College,125000,2013,academic,hacked,2.0
+Yahoo Japan,22000000,2013,tech,hacked,1.0
+Drupal,1000000,2013,web,hacked,1.0
+TerraCom & YourTel,170000,2013,telecoms,oops!,2.0
+Washington State court system,160000,2013,government,hacked,2.0
+MacRumours.com,860000,2013,web,hacked,1.0
+Court Ventures,200000000,2013,finance,inside job,2.0
+Vodafone,2000000,2013,telecoms,inside job,3.0
+Adobe,38000000,2013,tech,hacked,3.0
+"D&B, Altegrity",1000000,2013,tech,hacked,3.0
+ssndob.ms,4000000,2013,web,hacked,2.0
+Target,70000000,2013,retail,hacked,3.0
+China Software Developer Network,6000000,2012,web,hacked,1.0
+Global Payments,1500000,2012,finance,hacked,3.0
+South Carolina Government,228000,2012,health,inside job,4.0
+Three Iranian banks,3000000,2012,finance,hacked,5.0
+California Department of Child Support Services,800000,2012,government,lost device,2.0
+Emory Healthcare,315000,2012,health,lost device,4.0
+Office of the Texas Attorney General,6500000,2012,government,oops!,2.0
+Medicaid,780000,2012,government,hacked,5.0
+Blizzard,14000000,2012,gaming,hacked,2.0
+New York State Electric & Gas,1800000,2012,misc,inside job,2.0
+Memorial Healthcare System,102153,2012,health,lost device,2.0
+Zappos,24000000,2012,web,hacked,2.0
+Formspring,420000,2012,web,hacked,1.0
+KT Corp.,8700000,2012,telecoms,hacked,2.0
+Yahoo Voices,450000,2012,tech,hacked,1.0
+Last.fm,43500000,2012,web,hacked,1.0
+"LinkedIn, eHarmony, Last.fm",8000000,2012,web,hacked,1.0
+Gamigo,8000000,2012,web,hacked,1.0
+Militarysingles.com,163792,2012,web,hacked,1.0
+"""Apple""",12367232,2012,tech,oops!,2.0
+Greek government,9000000,2012,government,hacked,2.0
+South Carolina State Dept. of Revenue,3600000,2012,government,hacked,1.0
+Dropbox,68700000,2012,web,hacked,1.0
+New York City Health & Hospitals Corp.,1700000,2011,health,lost device,4.0
+"Seacoast Radiology, PA",231400,2011,health,hacked,2.0
+"South Shore Hospital, Massachusetts",800000,2011,health,lost device,5.0
+Betfair,2300000,2011,web,hacked,3.0
+"Ankle & foot Center of Tampa Bay, Inc.",156000,2011,health,hacked,4.0
+Yale University,43000,2011,academic,oops!,2.0
+Morgan Stanley Smith Barney,34000,2011,finance,lost device,3.0
+State of Texas,3500000,2011,government,oops!,2.0
+Epsilon,3000000,2011,web,hacked,1.0
+Sony PSN,77000000,2011,gaming,hacked,1.0
+US Law Enforcement,123461,2011,government,hacked,3.0
+University of Wisconsin - Milwaukee,73000,2011,academic,hacked,2.0
+Stratfor,935000,2011,military,hacked,3.0
+Chinese gaming sites,10000000,2011,web,hacked,1.0
+Southern California Medical-Legal Consultants,300000,2011,health,hacked,2.0
+Writerspace.com,62000,2011,web,hacked,1.0
+Bethesda Game Studios,200000,2011,gaming,hacked,1.0
+Sega,1290755,2011,gaming,hacked,2.0
+Citigroup,210000,2011,finance,hacked,3.0
+Sony Pictures,1000000,2011,web,hacked,1.0
+Accendo Insurance Co. ,175350,2011,health,poor security,2.0
+Washington Post,1270000,2011,misc,hacked,2.0
+Health Net - IBM,1900000,2011,health,lost device,3.0
+Eisenhower Medical Center,514330,2011,health,lost device,4.0
+Spartanburg Regional Healthcare System,400000,2011,health,lost device,4.0
+NHS,8600000,2011,health,lost device,4.0
+San Francisco Public Utilities Commission ,180000,2011,government,hacked,1.0
+Sony Online Entertainment,24600000,2011,gaming,hacked,3.0
+Honda Canada,283000,2011,retail,hacked,2.0
+Massachusetts Government,210000,2011,government,hacked,5.0
+Oregon Department of Motor Vehicles,1000000,2011,government,hacked,2.0
+Steam,35000000,2011,web,hacked,3.0
+Restaurant Depot,200000,2011,retail,hacked,3.0
+Nexon Korea Corp,13200000,2011,web,hacked,2.0
+Nemours Foundation,1600000,2011,health,lost device,4.0
+Sutter Medical Foundation,4243434,2011,health,lost device,2.0
+Tricare,4901432,2011,military,lost device,4.0
+"AvMed, Inc.",1220000,2010,health,lost device,2.0
+Blue Cross Blue Shield of Tennessee,1023209,2010,health,lost device,2.0
+US Military,260000,2010,military,inside job,5.0
+Gawker.com,1500000,2010,web,hacked,2.0
+"Triple-S Salud, Inc.",398000,2010,health,lost device,4.0
+Ohio State University,760000,2010,academic,hacked,2.0
+"Emergency Healthcare Physicians, Ltd.",180111,2010,health,lost device,4.0
+Colorado government,105470,2010,health,lost device,2.0
+AT&T,114000,2010,telecoms,hacked,1.0
+Lincoln Medical & Mental Health Center,130495,2010,health,lost device,4.0
+Educational Credit Management Corp,3300000,2010,finance,lost device,2.0
+US Federal Reserve Bank of Cleveland,400000,2010,finance,hacked,3.0
+Classified Iraq War documents,392000,2010,government,inside job,2.0
+Heartland,130000000,2009,finance,hacked,3.0
+US National Guard,131000,2009,military,lost device,2.0
+RockYou!,32000000,2009,web,hacked,1.0
+CheckFree Corporation,5000000,2009,finance,hacked,1.0
+Network Solutions,573000,2009,web,hacked,3.0
+Virginia Prescription Monitoring Program,531400,2009,health,hacked,2.0
+University of California Berkeley,160000,2009,academic,hacked,3.0
+Health Net ,1500000,2009,health,lost device,4.0
+US Military,76000000,2009,military,lost device,2.0
+Compass Bank,1000000,2008,finance,inside job,3.0
+Hannaford Brothers Supermarket Chain,4200000,2008,retail,hacked,3.0
+University of Miami,2100000,2008,academic,lost device,3.0
+BNY Mellon Shareowner Services,4500000,2008,finance,lost device,1.0
+Countrywide Financial Corp,2500000,2008,finance,inside job,2.0
+UK Home Office,84000,2008,government,lost device,2.0
+RBS Worldpay,1500000,2008,finance,hacked,5.0
+Auction.co.kr,18000000,2008,web,hacked,3.0
+GS Caltex,11100000,2008,misc,inside job,2.0
+AT&T,113000,2008,telecoms,lost device,1.0
+Stanford University,72000,2008,academic,lost device,2.0
+University of Utah Hospitals & Clinics,2200000,2008,academic,lost device,4.0
+Chile Ministry Of Education,6000000,2008,government,hacked,1.0
+Texas Lottery,89000,2008,government,inside job,2.0
+Starbucks,97000,2008,retail,lost device,2.0
+UK Ministry of Defence,1700000,2008,government,lost device,5.0
+"T-Mobile, Deutsche Telecom",17000000,2008,telecoms,lost device,1.0
+Norwegian Tax Authorities,3950000,2008,government,oops!,2.0
+Service Personnel and Veterans Agency (UK),50500,2008,government,lost device,2.0
+Monster.com,1600000,2007,web,hacked,2.0
+Driving Standards Agency,3000000,2007,government,lost device,2.0
+Fidelity National Information Services,8500000,2007,finance,inside job,3.0
+City and Hackney Teaching Primary Care Trust,160000,2007,government,lost device,2.0
+Gap Inc,800000,2007,retail,lost device,2.0
+Dai Nippon Printing,8637405,2007,retail,inside job,1.0
+TK / TJ Maxx,94000000,2007,retail,hacked,3.0
+JP Morgan Chase,2600000,2007,finance,lost device,3.0
+UK Revenue & Customs,25000000,2007,government,lost device,1.0
+TD Ameritrade,6300000,2007,finance,hacked,1.0
+AOL,20000000,2006,web,oops!,1.0
+US Dept of Vet Affairs,26500000,2006,government,lost device,2.0
+Automatic Data Processing,125000,2006,finance,poor security,2.0
+KDDI,4000000,2006,telecoms,hacked,1.0
+Hewlett Packard,200000,2006,tech,lost device,2.0
+Ameritrade Inc.,200000,2005,finance,lost device,2.0
+Citigroup,3900000,2005,finance,lost device,3.0
+Cardsystems Solutions Inc. ,40000000,2005,finance,hacked,3.0
+AOL,92000000,2004,web,inside job,1.0
