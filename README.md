@@ -89,7 +89,10 @@ The number of reported breaches grew from near-zero in 2004 to a peak of around 
 
 ## Data Source
 
-*World's Biggest Data Breaches & Hacks* — Information is Beautiful.
+**Original data:** *World's Biggest Data Breaches & Hacks* — Information is Beautiful.
 https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/
+
+**Dataset accessed via:** Kaggle — "World's Biggest Data Breaches and Hacks" (joebeachcapital), a CSV export of the Information is Beautiful visualisation.
+https://www.kaggle.com/datasets/joebeachcapital/worlds-biggest-data-breaches-and-hacks
 
 *This analysis uses publicly available data and is intended as a portfolio demonstration of data cleaning, analysis, and visualisation.*
